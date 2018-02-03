@@ -17,7 +17,7 @@ void setup() {
   //turnPowerCube();
   //turnSkipRed();
   //turnSkipBlue();
-  
+  //fakeMethod();
   
   turnAllOff();
   Serial.println("setup");
