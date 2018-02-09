@@ -301,7 +301,7 @@ void turnSteamworks() {
 }
 
 void turnPowerUp()  {
-    //Yo this gonna be them lights tho. They gon be hella bright.
+    
 
       for(int i=3; i > 0; i--){
         for(int x= 0; x <=36; x+=4){
@@ -332,7 +332,7 @@ void turnPowerCube() {
     
        }
 void turnTesting()  {
-    //Yo this gonna be them lights tho. They gon be hella bright.
+    //Yo this gonna be them lights tho. Theys is gon be hella bright.
     // int x = 0;
      //for(int i=0; i < 72; i++){
     //for(int i=0; i < 100; i++){
@@ -457,8 +457,21 @@ void turnPulseRed() {
 
 }
 
+void blackandwhite() {
+  //its just black and white
+  for(int i=0;,i<=36;,i+2 ){
+  for(int x=0;x<=36;,x++){
 
-
-
- 
+    strip.setPixelColor(x,0,0,0);
+    strip.setPixelColor(i,255,255,255);
+    strip.setPixelColor
+    strip.setPixelColor
+    strip.setPixelColor
+    strip.setPixelColor
+    strip.setPixelColor
+    strip.show();
+  }
+  }
+    
+}
 
