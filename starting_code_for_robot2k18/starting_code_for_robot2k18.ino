@@ -15,6 +15,15 @@ void setup()
    Serial.begin(9600);      // bauds, bytes per second 
 } //END OF SETUP
 
+/*
+ * climb - u
+collect cube - c
+scale - s
+switch - h
+red alliance - r
+blue alliance - b
+
+ */
 void loop()
 {
  
